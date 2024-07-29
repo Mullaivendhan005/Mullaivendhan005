@@ -2,7 +2,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/a-mullai-vendhan-990544248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a-mullai-vendhan-990544248" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mullai vendhan a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mullai vendhan a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mullaivendhan_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mullaivendhan_a" height="30" width="40" /></a>
 </p>
 
